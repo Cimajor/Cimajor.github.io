@@ -1,0 +1,4 @@
+# app-ads.txt for the Arcade GameDev game portfolio.
+# TODO: replace the line below once the AdMob account (Individual) is created
+# and a real publisher ID is issued (legal-workflow.md, Фаза 0).
+# Format: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
